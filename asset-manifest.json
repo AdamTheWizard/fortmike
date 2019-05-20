@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fortmike/static/css/main.2b7f8185.chunk.css",
+    "main.js": "/fortmike/static/js/main.3197d6c9.chunk.js",
+    "main.js.map": "/fortmike/static/js/main.3197d6c9.chunk.js.map",
+    "runtime~main.js": "/fortmike/static/js/runtime~main.5fddd6d9.js",
+    "runtime~main.js.map": "/fortmike/static/js/runtime~main.5fddd6d9.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/fortmike/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/fortmike/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/fortmike/index.html",
+    "precache-manifest.91df42ae41c50ab362d21b45193ccf15.js": "/fortmike/precache-manifest.91df42ae41c50ab362d21b45193ccf15.js",
+    "service-worker.js": "/fortmike/service-worker.js",
+    "static/css/main.2b7f8185.chunk.css.map": "/fortmike/static/css/main.2b7f8185.chunk.css.map"
+  }
+}
