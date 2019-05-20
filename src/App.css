@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+* {
+  margin:0;
+  padding:0;
+}
+
+a {
+  text-decoration: none;
+  color: #010101;
+}
+
+.card-container {
+  width:1200px;
+  margin:10px auto;
+  /* background:red; */
+  display: flex;
+  flex-wrap:wrap;
+}
+
+.item-card {
+  width: 30%;
+  margin: 10px auto;
+  /* background:blue; */
+}
+
+.trans-img {
+  width: 70%;
+}
+
+
+.rare {
+  background: radial-gradient(#78AECE, #18487E);
+}
+.uncommon {
+  background: radial-gradient(#93CF86, #3D7D35);
+}
+.epic {
+  background: radial-gradient(#C680EC, #712BB9);
+}
+.legendary {
+  background: radial-gradient(#FFCC7B, #EC4B02);
+}
+
+
+.cost-container {
+  display:flex;
+  width:100%;
+  justify-content:center;
+}
+.cost {
+  font-size: 150%;
+  margin-left:-10px;
+}
+.currency {
+  height:20px;
+  width:20px;
+  position: relative;
+  top:7px;
+  left:-10px;
+}
