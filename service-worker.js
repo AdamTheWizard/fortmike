@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fortmike/precache-manifest.7e9879d3862dac6759a050f2568bb7ff.js"
+  "/fortmike/precache-manifest.80ad58a0ccd7afae9a7313105f7b0b4f.js"
 );
 
 self.addEventListener('message', (event) => {
